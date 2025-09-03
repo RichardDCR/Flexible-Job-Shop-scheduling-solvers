@@ -1,0 +1,227 @@
+GA COMMANDS
+%run ga_fjsp.py --instance sfjs01.txt --runs 1000 --evals 500 --noimp 100 --solution 66
+%run ga_fjsp.py --instance sfjs02.txt --runs 1000 --evals 500 --noimp 100 --solution 107
+%run ga_fjsp.py --instance sfjs03.txt --runs 1000 --evals 500 --noimp 100 --solution 221
+%run ga_fjsp.py --instance sfjs04.txt --runs 1000 --evals 500 --noimp 100 --solution 355
+%run ga_fjsp.py --instance sfjs05.txt --runs 1000 --evals 500 --noimp 100 --solution 119
+%run ga_fjsp.py --instance sfjs06.txt --runs 1000 --evals 500 --noimp 100 --solution 320
+%run ga_fjsp.py --instance sfjs07.txt --runs 1000 --evals 500 --noimp 100 --solution 397
+%run ga_fjsp.py --instance sfjs08.txt --runs 1000 --evals 500 --noimp 100 --solution 253
+%run ga_fjsp.py --instance sfjs09.txt --runs 1000 --evals 500 --noimp 100 --solution 210
+%run ga_fjsp.py --instance sfjs10.txt --runs 1000 --evals 500 --noimp 100 --solution 516
+
+%run ga_fjsp.py --instance sfjs01.txt --runs 1000 --runtime 0.1 --solution 66
+%run ga_fjsp.py --instance sfjs02.txt --runs 1000 --runtime 0.1 --solution 107
+%run ga_fjsp.py --instance sfjs03.txt --runs 1000 --runtime 0.1 --solution 221
+%run ga_fjsp.py --instance sfjs04.txt --runs 1000 --runtime 0.1 --solution 355
+%run ga_fjsp.py --instance sfjs05.txt --runs 1000 --runtime 0.1 --solution 119
+%run ga_fjsp.py --instance sfjs06.txt --runs 1000 --runtime 0.1 --solution 320
+%run ga_fjsp.py --instance sfjs07.txt --runs 1000 --runtime 0.1 --solution 397
+%run ga_fjsp.py --instance sfjs08.txt --runs 1000 --runtime 0.1 --solution 253
+%run ga_fjsp.py --instance sfjs09.txt --runs 1000 --runtime 0.1 --solution 210
+%run ga_fjsp.py --instance sfjs10.txt --runs 1000 --runtime 0.1 --solution 516
+
+%run ga_fjsp.py --instance mfjs01.txt --runs 1000 --evals 500 --noimp 100 --lb 468
+%run ga_fjsp.py --instance mfjs02.txt --runs 1000 --evals 500 --noimp 100 --lb 446
+%run ga_fjsp.py --instance mfjs03.txt --runs 1000 --evals 500 --noimp 100 --lb 466
+%run ga_fjsp.py --instance mfjs04.txt --runs 1000 --evals 500 --noimp 100 --lb 554
+%run ga_fjsp.py --instance mfjs05.txt --runs 1000 --evals 500 --noimp 100 --lb 514
+%run ga_fjsp.py --instance mfjs06.txt --runs 1000 --evals 500 --noimp 100 --lb 635
+%run ga_fjsp.py --instance mfjs07.txt --runs 1000 --evals 500 --noimp 100 --lb 879
+%run ga_fjsp.py --instance mfjs08.txt --runs 1000 --evals 500 --noimp 100 --lb 884
+%run ga_fjsp.py --instance mfjs09.txt --runs 1000 --evals 500 --noimp 100 --lb 1088
+%run ga_fjsp.py --instance mfjs10.txt --runs 1000 --evals 500 --noimp 100 --lb 1267
+
+%run ga_fjsp.py --instance mfjs01.txt --runs 1000 --runtime 0.1 --lb 468
+%run ga_fjsp.py --instance mfjs02.txt --runs 1000 --runtime 0.1 --lb 446
+%run ga_fjsp.py --instance mfjs03.txt --runs 1000 --runtime 0.1 --lb 466
+%run ga_fjsp.py --instance mfjs04.txt --runs 1000 --runtime 0.1 --lb 554
+%run ga_fjsp.py --instance mfjs05.txt --runs 1000 --runtime 0.1 --lb 514
+%run ga_fjsp.py --instance mfjs06.txt --runs 1000 --runtime 0.1 --lb 635
+%run ga_fjsp.py --instance mfjs07.txt --runs 1000 --runtime 0.1 --lb 879
+%run ga_fjsp.py --instance mfjs08.txt --runs 1000 --runtime 0.1 --lb 884
+%run ga_fjsp.py --instance mfjs09.txt --runs 1000 --runtime 0.1 --lb 1088
+%run ga_fjsp.py --instance mfjs10.txt --runs 1000 --runtime 0.1 --lb 1267
+
+SA COMMANDS
+
+%run sa_fjsp.py --instance sfjs01.txt --runs 1000 --evals 500 --noimp 100 --solution 66
+%run sa_fjsp.py --instance sfjs02.txt --runs 1000 --evals 500 --noimp 100 --solution 107
+%run sa_fjsp.py --instance sfjs03.txt --runs 1000 --evals 500 --noimp 100 --solution 221
+%run sa_fjsp.py --instance sfjs04.txt --runs 1000 --evals 500 --noimp 100 --solution 355
+%run sa_fjsp.py --instance sfjs05.txt --runs 1000 --evals 500 --noimp 100 --solution 119
+%run sa_fjsp.py --instance sfjs06.txt --runs 1000 --evals 500 --noimp 100 --solution 320
+%run sa_fjsp.py --instance sfjs07.txt --runs 1000 --evals 500 --noimp 100 --solution 397
+%run sa_fjsp.py --instance sfjs08.txt --runs 1000 --evals 500 --noimp 100 --solution 253
+%run sa_fjsp.py --instance sfjs09.txt --runs 1000 --evals 500 --noimp 100 --solution 210
+%run sa_fjsp.py --instance sfjs10.txt --runs 1000 --evals 500 --noimp 100 --solution 516
+
+%run sa_fjsp.py --instance sfjs01.txt --runs 1000 --runtime 0.1 --solution 66
+%run sa_fjsp.py --instance sfjs02.txt --runs 1000 --runtime 0.1 --solution 107
+%run sa_fjsp.py --instance sfjs03.txt --runs 1000 --runtime 0.1 --solution 221
+%run sa_fjsp.py --instance sfjs04.txt --runs 1000 --runtime 0.1 --solution 355
+%run sa_fjsp.py --instance sfjs05.txt --runs 1000 --runtime 0.1 --solution 119
+%run sa_fjsp.py --instance sfjs06.txt --runs 1000 --runtime 0.1 --solution 320
+%run sa_fjsp.py --instance sfjs07.txt --runs 1000 --runtime 0.1 --solution 397
+%run sa_fjsp.py --instance sfjs08.txt --runs 1000 --runtime 0.1 --solution 253
+%run sa_fjsp.py --instance sfjs09.txt --runs 1000 --runtime 0.1 --solution 210
+%run sa_fjsp.py --instance sfjs10.txt --runs 1000 --runtime 0.1 --solution 516
+
+%run sa_fjsp.py --instance mfjs01.txt --runs 1000 --evals 500 --noimp 100 --lb 468
+%run sa_fjsp.py --instance mfjs02.txt --runs 1000 --evals 500 --noimp 100 --lb 446
+%run sa_fjsp.py --instance mfjs03.txt --runs 1000 --evals 500 --noimp 100 --lb 466
+%run sa_fjsp.py --instance mfjs04.txt --runs 1000 --evals 500 --noimp 100 --lb 554
+%run sa_fjsp.py --instance mfjs05.txt --runs 1000 --evals 500 --noimp 100 --lb 514
+%run sa_fjsp.py --instance mfjs06.txt --runs 1000 --evals 500 --noimp 100 --lb 635
+%run sa_fjsp.py --instance mfjs07.txt --runs 1000 --evals 500 --noimp 100 --lb 879
+%run sa_fjsp.py --instance mfjs08.txt --runs 1000 --evals 500 --noimp 100 --lb 884
+%run sa_fjsp.py --instance mfjs09.txt --runs 1000 --evals 500 --noimp 100 --lb 1088
+%run sa_fjsp.py --instance mfjs10.txt --runs 1000 --evals 500 --noimp 100 --lb 1267
+
+%run sa_fjsp.py --instance mfjs01.txt --runs 1000 --runtime 0.1 --lb 468
+%run sa_fjsp.py --instance mfjs02.txt --runs 1000 --runtime 0.1 --lb 446
+%run sa_fjsp.py --instance mfjs03.txt --runs 1000 --runtime 0.1 --lb 466
+%run sa_fjsp.py --instance mfjs04.txt --runs 1000 --runtime 0.1 --lb 554
+%run sa_fjsp.py --instance mfjs05.txt --runs 1000 --runtime 0.1 --lb 514
+%run sa_fjsp.py --instance mfjs06.txt --runs 1000 --runtime 0.1 --lb 635
+%run sa_fjsp.py --instance mfjs07.txt --runs 1000 --runtime 0.1 --lb 879
+%run sa_fjsp.py --instance mfjs08.txt --runs 1000 --runtime 0.1 --lb 884
+%run sa_fjsp.py --instance mfjs09.txt --runs 1000 --runtime 0.1 --lb 1088
+%run sa_fjsp.py --instance mfjs10.txt --runs 1000 --runtime 0.1 --lb 1267
+
+TS COMMANDS
+%run its_fjsp.py --instance sfjs01.txt --runs 1000 --evals 500 --noimp 100 --solution 66
+%run its_fjsp.py --instance sfjs02.txt --runs 1000 --evals 500 --noimp 100 --solution 107
+%run its_fjsp.py --instance sfjs03.txt --runs 1000 --evals 500 --noimp 100 --solution 221
+%run its_fjsp.py --instance sfjs04.txt --runs 1000 --evals 500 --noimp 100 --solution 355
+%run its_fjsp.py --instance sfjs05.txt --runs 1000 --evals 500 --noimp 100 --solution 119
+%run its_fjsp.py --instance sfjs06.txt --runs 1000 --evals 500 --noimp 100 --solution 320
+%run its_fjsp.py --instance sfjs07.txt --runs 1000 --evals 500 --noimp 100 --solution 397
+%run its_fjsp.py --instance sfjs08.txt --runs 1000 --evals 500 --noimp 100 --solution 253
+%run its_fjsp.py --instance sfjs09.txt --runs 1000 --evals 500 --noimp 100 --solution 210
+%run its_fjsp.py --instance sfjs10.txt --runs 1000 --evals 500 --noimp 100 --solution 516
+
+%run its_fjsp.py --instance sfjs01.txt --runs 1000 --runtime 0.1 --solution 66
+%run its_fjsp.py --instance sfjs02.txt --runs 1000 --runtime 0.1 --solution 107
+%run its_fjsp.py --instance sfjs03.txt --runs 1000 --runtime 0.1 --solution 221
+%run its_fjsp.py --instance sfjs04.txt --runs 1000 --runtime 0.1 --solution 355
+%run its_fjsp.py --instance sfjs05.txt --runs 1000 --runtime 0.1 --solution 119
+%run its_fjsp.py --instance sfjs06.txt --runs 1000 --runtime 0.1 --solution 320
+%run its_fjsp.py --instance sfjs07.txt --runs 1000 --runtime 0.1 --solution 397
+%run its_fjsp.py --instance sfjs08.txt --runs 1000 --runtime 0.1 --solution 253
+%run its_fjsp.py --instance sfjs09.txt --runs 1000 --runtime 0.1 --solution 210
+%run its_fjsp.py --instance sfjs10.txt --runs 1000 --runtime 0.1 --solution 516
+
+%run its_fjsp.py --instance mfjs01.txt --runs 1000 --evals 500 --noimp 100 --lb 468
+%run its_fjsp.py --instance mfjs02.txt --runs 1000 --evals 500 --noimp 100 --lb 446
+%run its_fjsp.py --instance mfjs03.txt --runs 1000 --evals 500 --noimp 100 --lb 466
+%run its_fjsp.py --instance mfjs04.txt --runs 1000 --evals 500 --noimp 100 --lb 554
+%run its_fjsp.py --instance mfjs05.txt --runs 1000 --evals 500 --noimp 100 --lb 514
+%run its_fjsp.py --instance mfjs06.txt --runs 1000 --evals 500 --noimp 100 --lb 635
+%run its_fjsp.py --instance mfjs07.txt --runs 1000 --evals 500 --noimp 100 --lb 879
+%run its_fjsp.py --instance mfjs08.txt --runs 1000 --evals 500 --noimp 100 --lb 884
+%run its_fjsp.py --instance mfjs09.txt --runs 1000 --evals 500 --noimp 100 --lb 1088
+%run its_fjsp.py --instance mfjs10.txt --runs 1000 --evals 500 --noimp 100 --lb 1267
+
+%run its_fjsp.py --instance mfjs01.txt --runs 1000 --runtime 0.1 --lb 468
+%run its_fjsp.py --instance mfjs02.txt --runs 1000 --runtime 0.1 --lb 446
+%run its_fjsp.py --instance mfjs03.txt --runs 1000 --runtime 0.1 --lb 466
+%run its_fjsp.py --instance mfjs04.txt --runs 1000 --runtime 0.1 --lb 554
+%run its_fjsp.py --instance mfjs05.txt --runs 1000 --runtime 0.1 --lb 514
+%run its_fjsp.py --instance mfjs06.txt --runs 1000 --runtime 0.1 --lb 635
+%run its_fjsp.py --instance mfjs07.txt --runs 1000 --runtime 0.1 --lb 879
+%run its_fjsp.py --instance mfjs08.txt --runs 1000 --runtime 0.1 --lb 884
+%run its_fjsp.py --instance mfjs09.txt --runs 1000 --runtime 0.1 --lb 1088
+%run its_fjsp.py --instance mfjs10.txt --runs 1000 --runtime 0.1 --lb 1267
+
+RLGA COMMANDS
+
+%run rlga_fjsp.py --instance sfjs01.txt --runs 1000 --evals 500 --noimp 100 --solution 66
+%run rlga_fjsp.py --instance sfjs02.txt --runs 1000 --evals 500 --noimp 100 --solution 107
+%run rlga_fjsp.py --instance sfjs03.txt --runs 1000 --evals 500 --noimp 100 --solution 221
+%run rlga_fjsp.py --instance sfjs04.txt --runs 1000 --evals 500 --noimp 100 --solution 355
+%run rlga_fjsp.py --instance sfjs05.txt --runs 1000 --evals 500 --noimp 100 --solution 119
+%run rlga_fjsp.py --instance sfjs06.txt --runs 1000 --evals 500 --noimp 100 --solution 320
+%run rlga_fjsp.py --instance sfjs07.txt --runs 1000 --evals 500 --noimp 100 --solution 397
+%run rlga_fjsp.py --instance sfjs08.txt --runs 1000 --evals 500 --noimp 100 --solution 253
+%run rlga_fjsp.py --instance sfjs09.txt --runs 1000 --evals 500 --noimp 100 --solution 210
+%run rlga_fjsp.py --instance sfjs10.txt --runs 1000 --evals 500 --noimp 100 --solution 516
+
+%run rlga_fjsp.py --instance sfjs01.txt --runs 1000 --runtime 0.1 --solution 66
+%run rlga_fjsp.py --instance sfjs02.txt --runs 1000 --runtime 0.1 --solution 107
+%run rlga_fjsp.py --instance sfjs03.txt --runs 1000 --runtime 0.1 --solution 221
+%run rlga_fjsp.py --instance sfjs04.txt --runs 1000 --runtime 0.1 --solution 355
+%run rlga_fjsp.py --instance sfjs05.txt --runs 1000 --runtime 0.1 --solution 119
+%run rlga_fjsp.py --instance sfjs06.txt --runs 1000 --runtime 0.1 --solution 320
+%run rlga_fjsp.py --instance sfjs07.txt --runs 1000 --runtime 0.1 --solution 397
+%run rlga_fjsp.py --instance sfjs08.txt --runs 1000 --runtime 0.1 --solution 253
+%run rlga_fjsp.py --instance sfjs09.txt --runs 1000 --runtime 0.1 --solution 210
+%run rlga_fjsp.py --instance sfjs10.txt --runs 1000 --runtime 0.1 --solution 516
+
+%run rlga_fjsp.py --instance mfjs01.txt --runs 1000 --evals 500 --noimp 100 --lb 468
+%run rlga_fjsp.py --instance mfjs02.txt --runs 1000 --evals 500 --noimp 100 --lb 446
+%run rlga_fjsp.py --instance mfjs03.txt --runs 1000 --evals 500 --noimp 100 --lb 466
+%run rlga_fjsp.py --instance mfjs04.txt --runs 1000 --evals 500 --noimp 100 --lb 554
+%run rlga_fjsp.py --instance mfjs05.txt --runs 1000 --evals 500 --noimp 100 --lb 514
+%run rlga_fjsp.py --instance mfjs06.txt --runs 1000 --evals 500 --noimp 100 --lb 635
+%run rlga_fjsp.py --instance mfjs07.txt --runs 1000 --evals 500 --noimp 100 --lb 879
+%run rlga_fjsp.py --instance mfjs08.txt --runs 1000 --evals 500 --noimp 100 --lb 884
+%run rlga_fjsp.py --instance mfjs09.txt --runs 1000 --evals 500 --noimp 100 --lb 1088
+%run rlga_fjsp.py --instance mfjs10.txt --runs 1000 --evals 500 --noimp 100 --lb 1267
+
+%run rlga_fjsp.py --instance mfjs01.txt --runs 1000 --runtime 0.1 --lb 468
+%run rlga_fjsp.py --instance mfjs02.txt --runs 1000 --runtime 0.1 --lb 446
+%run rlga_fjsp.py --instance mfjs03.txt --runs 1000 --runtime 0.1 --lb 466
+%run rlga_fjsp.py --instance mfjs04.txt --runs 1000 --runtime 0.1 --lb 554
+%run rlga_fjsp.py --instance mfjs05.txt --runs 1000 --runtime 0.1 --lb 514
+%run rlga_fjsp.py --instance mfjs06.txt --runs 1000 --runtime 0.1 --lb 635
+%run rlga_fjsp.py --instance mfjs07.txt --runs 1000 --runtime 0.1 --lb 879
+%run rlga_fjsp.py --instance mfjs08.txt --runs 1000 --runtime 0.1 --lb 884
+%run rlga_fjsp.py --instance mfjs09.txt --runs 1000 --runtime 0.1 --lb 1088
+%run rlga_fjsp.py --instance mfjs10.txt --runs 1000 --runtime 0.1 --lb 1267
+
+
+LARGE COMMANDS
+%run ga_fjsp.py --instance mk01.txt --runs 100 --runtime 1 --lb 40
+%run ga_fjsp.py --instance mk02.txt --runs 100 --runtime 1 --lb 27
+%run ga_fjsp.py --instance mk03.txt --runs 100 --runtime 1 --lb 204
+%run ga_fjsp.py --instance mk04.txt --runs 100 --runtime 1 --lb 60
+%run ga_fjsp.py --instance mk05.txt --runs 100 --runtime 1 --lb 174
+%run ga_fjsp.py --instance mk06.txt --runs 100 --runtime 1 --lb 59
+%run ga_fjsp.py --instance mk07.txt --runs 100 --runtime 1 --lb 143
+%run ga_fjsp.py --instance mk08.txt --runs 100 --runtime 1 --lb 523
+%run ga_fjsp.py --instance mk09.txt --runs 100 --runtime 1 --lb 307
+%run ga_fjsp.py --instance mk10.txt --runs 100 --runtime 1 --lb 214
+
+%run sa_fjsp.py --instance mk01.txt --runs 100 --runtime 1 --lb 40
+%run sa_fjsp.py --instance mk02.txt --runs 100 --runtime 1 --lb 27
+%run sa_fjsp.py --instance mk03.txt --runs 100 --runtime 1 --lb 204
+%run sa_fjsp.py --instance mk04.txt --runs 100 --runtime 1 --lb 60
+%run sa_fjsp.py --instance mk05.txt --runs 100 --runtime 1 --lb 174
+%run sa_fjsp.py --instance mk06.txt --runs 100 --runtime 1 --lb 59
+%run sa_fjsp.py --instance mk07.txt --runs 100 --runtime 1 --lb 143
+%run sa_fjsp.py --instance mk08.txt --runs 100 --runtime 1 --lb 523
+%run sa_fjsp.py --instance mk09.txt --runs 100 --runtime 1 --lb 307
+%run sa_fjsp.py --instance mk10.txt --runs 100 --runtime 1 --lb 214
+
+%run ga_fjsp.py --instance mk01.txt --runs 100 --runtime 1 --lb 40
+%run ga_fjsp.py --instance mk02.txt --runs 100 --runtime 1 --lb 27
+%run ga_fjsp.py --instance mk03.txt --runs 100 --runtime 1 --lb 204
+%run ga_fjsp.py --instance mk04.txt --runs 100 --runtime 1 --lb 60
+%run ga_fjsp.py --instance mk05.txt --runs 100 --runtime 1 --lb 174
+%run ga_fjsp.py --instance mk06.txt --runs 100 --runtime 1 --lb 59
+%run ga_fjsp.py --instance mk07.txt --runs 100 --runtime 1 --lb 143
+%run ga_fjsp.py --instance mk08.txt --runs 100 --runtime 1 --lb 523
+%run ga_fjsp.py --instance mk09.txt --runs 100 --runtime 1 --lb 307
+%run ga_fjsp.py --instance mk10.txt --runs 100 --runtime 1 --lb 214
+
+%run ga_fjsp.py --instance mk01.txt --runs 100 --runtime 1 --lb 40
+%run ga_fjsp.py --instance mk02.txt --runs 100 --runtime 1 --lb 27
+%run ga_fjsp.py --instance mk03.txt --runs 100 --runtime 1 --lb 204
+%run ga_fjsp.py --instance mk04.txt --runs 100 --runtime 1 --lb 60
+%run ga_fjsp.py --instance mk05.txt --runs 100 --runtime 1 --lb 174
+%run ga_fjsp.py --instance mk06.txt --runs 100 --runtime 1 --lb 59
+%run ga_fjsp.py --instance mk07.txt --runs 100 --runtime 1 --lb 143
+%run ga_fjsp.py --instance mk08.txt --runs 100 --runtime 1 --lb 523
+%run ga_fjsp.py --instance mk09.txt --runs 100 --runtime 1 --lb 307
+%run ga_fjsp.py --instance mk10.txt --runs 100 --runtime 1 --lb 214
