@@ -14,23 +14,23 @@ Each algorith has 5 workmodes.
 
 1) One run test: Test one run of the algorithm and plot cmax chart and gant plot
 
-    python rlga_fjsp.py --instance mfjs10.txt
+    `python rlga_fjsp.py --instance mfjs10.txt`
 
 3) Evaluation/No-Improvement mode with known solution
    
-    python rlga_fjsp.py --instance mfjs10.txt --runs 100 --evals 1000 --noimp 100 --solution 66
+    `python rlga_fjsp.py --instance mfjs10.txt --runs 100 --evals 1000 --noimp 100 --solution 66`
 
 5) Evaluation/No-Improvement mode with unknown solution
     
-    python rlga_fjsp.py --instance mfjs10.txt --runs 100 --evals 1000 --noimp 100 --lb 66
+    `python rlga_fjsp.py --instance mfjs10.txt --runs 100 --evals 1000 --noimp 100 --lb 66`
 
 7) Time-boxed mode with known solution
    
-     python rlga_fjsp.py --instance mfjs10.txt --runs 100 --runtime 0.5 --solution 66
+     `python rlga_fjsp.py --instance mfjs10.txt --runs 100 --runtime 0.5 --solution 66`
      
 9) Time-boxed mode with unknown solution
         
-     python rlga_fjsp.py --instance mfjs10.txt --runs 100 --runtime 0.5 --lb 66
+     `python rlga_fjsp.py --instance mfjs10.txt --runs 100 --runtime 0.5 --lb 66`
 ## Dataset
 Dataset to be used in all scripts can be found in [SchedulingLab/fjsp-instances](https://github.com/SchedulingLab/fjsp-instances)
 
