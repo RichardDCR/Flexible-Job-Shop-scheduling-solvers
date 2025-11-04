@@ -1,5 +1,5 @@
 # Flexible-Job-Shop-scheduling-solvers
-A repository with four scripts that have solvers for FJSSP. Simulated Annealing, Genetic Algorithm, Tabular Search and RL+GA using Q-learning.
+A repository with four scripts that have solvers for FJSSP. Simulated Annealing, Genetic Algorithm, Tabular Search and RL+GA using Q-learning. Results and discussion on the "Report"
 
 ## Algorith Script
 - [sa_fjsp.py](sa_fjsp.py): (Integrated) Simulated annealing script. Structure based on [1]
